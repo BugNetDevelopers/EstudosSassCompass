@@ -1,0 +1,11 @@
+@import "mixins-lib.scss";
+
+$radius: 2px;
+$noticia-bg-color: green;
+$noticia-border-color: #00cc00;
+
+.noticia{
+  background-color: $noticia-bg-color;
+  border: 2px solid $noticia-border-color;
+  @include rounded-corners;
+}

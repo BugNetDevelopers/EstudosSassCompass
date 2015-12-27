@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,SAAU;EACR,KAAK,EAAE,GAAG;EAEV,YAAG;IACD,KAAK,EAAE,IAAI;;AAIf,KAAM;EACJ,KAAK,EAAE,IAAI;;AAGb,sCAAsC",
+"sources": ["../sass/arquivo_convertido.scss"],
+"names": [],
+"file": "arquivo_convertido.css"
+}

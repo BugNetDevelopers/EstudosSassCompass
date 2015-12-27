@@ -1,0 +1,34 @@
+.vermelho {
+  color: red; }
+  .vermelho h1 {
+    color: blue; }
+
+.azul {
+  color: blue; }
+
+.vermelho {
+  color: red; }
+
+.vermelho {
+  color: red; }
+
+.amarelo {
+  color: yellow; }
+
+.verde {
+  color: green; }
+
+.error {
+  color: #ffffff;
+  background-color: #abcdef;
+  width: 300px;
+  border: 1px #000; }
+
+.selected {
+  border: 1px #000 solid; }
+
+.tema-azul aside {
+  background-color: blue;
+  color: white; }
+
+/*# sourceMappingURL=aula07.css.map */

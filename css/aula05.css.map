@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAWA,SAAS;EACP,KAAK,EARQ,GAAG;;AAWlB,QAAQ;EACN,KAAK,EAXO,MAAM;;AAapB,MAAM;EACJ,KAAK,EAbK,KAAK;;AAejB,MAAM;EACJ,KAAK,EApBM,OAAO;EAqBlB,gBAAgB,EApBC,OAAO;EAqBxB,KAAK,EAvBC,KAAK;EAwBX,MAAM,EAAE,QAAoB;;AAG9B,SAAS;EACP,MAAM,EApBY,cAA0B",
+"sources": ["../sass/aula05.scss"],
+"names": [],
+"file": "aula05.css"
+}

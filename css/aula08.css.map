@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAMA,QAAQ;EACN,gBAAgB,EAJC,KAAK;EAKtB,MAAM,EAAE,iBAA+B;ECPvC,kBAAkB,EDCX,GAAG;ECAV,qBAAqB,EDAd,GAAG;ECCV,aAAa,EDDN,GAAG",
+"sources": ["../sass/aula08.scss","../sass/mixins-lib.scss"],
+"names": [],
+"file": "aula08.css"
+}

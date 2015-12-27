@@ -1,0 +1,19 @@
+.vermelho {
+  color: red; }
+
+.amarelo {
+  color: yellow; }
+
+.verde {
+  color: green; }
+
+.error {
+  color: #ffffff;
+  background-color: #abcdef;
+  width: 300px;
+  border: 1px #000; }
+
+.selected {
+  border: 1px #000 solid; }
+
+/*# sourceMappingURL=aula05.css.map */

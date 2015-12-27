@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,KAAK;EACH,gBAAgB,EAAE,IAAI;EACtB,KAAK,EAAE,KAAK",
+"sources": ["../sass/aula07-ex02.scss"],
+"names": [],
+"file": "aula07-ex02.css"
+}

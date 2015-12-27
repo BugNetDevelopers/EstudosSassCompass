@@ -1,0 +1,31 @@
+$highlight-color : #000;
+$width: 300px;
+$base-color: #ffffff;
+$background-color: #abcdef;
+$cor-vermelho: red;
+$cor-amarela: yellow;
+$cor-verde: green;
+$cor_branca: white;
+
+$highlight-border : 1px $highlight-color solid;
+
+.vermelho{
+  color: $cor-vermelho;
+}
+
+.amarelo{
+  color: $cor-amarela;
+}
+.verde{
+  color: $cor-verde;
+}
+.error{
+  color: $base-color;
+  background-color: $background-color;
+  width: $width;
+  border: 1px $highlight-color;
+}
+
+.selected{
+  border: $highlight-border;
+}

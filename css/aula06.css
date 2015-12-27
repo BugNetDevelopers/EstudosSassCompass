@@ -1,0 +1,13 @@
+nav {
+  padding-left: 20px;
+  padding-right: 10px;
+  padding-top: 1px;
+  padding-bottom: 5px;
+  border: 2px solid #ccc;
+    border-color: #ccc;
+    border-radius: 3px; }
+  nav li {
+    border: 2px solid black;
+      border-radius: 2px; }
+
+/*# sourceMappingURL=aula06.css.map */
