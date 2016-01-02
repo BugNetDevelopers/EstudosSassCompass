@@ -1,0 +1,68 @@
+@import "susy";
+$susy:(
+    columns: 8, // número de colunas do grid
+    container: 1140px, // largura do container
+    //debug: (image: show), // exibe as colunas do grid
+);
+@import "partials/_header.scss";
+@import "partials/_reset.scss";
+.container {
+    @include container(); // inclui na classe o container definido no Susy Map
+}
+.logo {
+    float: left;
+    padding: 0.9375rem;
+    line-height: 2rem;
+    font-size: 1.5rem;
+}
+nav {
+    float: right;
+    li {
+        list-style: none;
+        float: left;
+        margin-left: 2rem;
+        line-height: 2rem;
+    }
+}
+img {
+    width:100%;
+}
+.banner {
+    @include span(8 of 8);
+    margin: gutter() 0;
+    height: 100%;
+}
+.sidebar {
+    @include span (2 of 8);
+    ul {
+        margin: 0;
+        padding: 1.2rem;
+    }
+    li {
+        list-style: none;
+        font-size: 1.1rem;
+        border-bottom: 2px dotted #c6c6c6;
+        &:last-child {
+            border:none;
+        }
+    }
+    a {
+        display: block;
+        padding: 1rem .5rem;
+        color: #333;
+        line-height: 2;
+        text-decoration: none;
+    }
+}
+.content {
+    @include span (6 of 8 last);
+}
+.content-item {
+    @include gallery(2 of 6);
+    margin-bottom: gutter();
+}
+.site-footer {
+    margin-top: 2rem;
+    padding: 0.6rem 0;
+    color: #fff;
+}
